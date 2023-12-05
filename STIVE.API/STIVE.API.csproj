@@ -12,6 +12,11 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="STIVE.Services\" />
+    <Folder Include="STIVE.DataAccess\" />
+    <Folder Include="STIVE.Business\" />
+    <Folder Include="STIVE.Common\Models\" />
+    <Folder Include="STIVE.Common\Resources\" />
   </ItemGroup>
 
 </Project>
