@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\STIVE.API.props" />
+</Project>
